@@ -1,6 +1,3 @@
-
-Of course! Here's the revised version without emojis:
-
 Hi, I’m Shawn Yates.
 
 I’m interested in computational biology, bioinformatics, and leveraging technology to solve biological problems.
