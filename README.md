@@ -6,4 +6,4 @@ Currently, I’m learning various coding languages and tools such as RStudio, Py
 
 I’m looking to collaborate on projects related to genomics, transcriptomics, and other areas of computational biology.
 
-You can reach me at sdy0002@auburn.edu.
+You can reach me at shawnyates398@gmail.com.
